@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,11 +17,13 @@
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
