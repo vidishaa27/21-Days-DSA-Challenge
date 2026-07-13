@@ -28,4 +28,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
