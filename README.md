@@ -29,10 +29,12 @@
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
