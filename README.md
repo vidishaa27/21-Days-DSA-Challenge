@@ -18,6 +18,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0001-two-sum](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0001-two-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | [0283-move-zeroes](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0136-single-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0136-single-number/) | Easy |
+| [0001-two-sum](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0001-two-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
