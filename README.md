@@ -32,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0283-move-zeroes/) | Easy |
+| [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,8 +59,13 @@
 | [0485-max-consecutive-ones](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0136-single-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0136-single-number/) | Easy |
 | [0001-two-sum](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
