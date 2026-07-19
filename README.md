@@ -34,6 +34,7 @@
 | [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
