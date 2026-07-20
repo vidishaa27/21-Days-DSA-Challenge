@@ -20,6 +20,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0001-two-sum](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0031-next-permutation](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0031-next-permutation/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
