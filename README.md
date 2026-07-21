@@ -74,6 +74,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0704-binary-search](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0035-search-insert-position](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,5 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0035-search-insert-position](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
