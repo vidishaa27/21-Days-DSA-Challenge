@@ -72,6 +72,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0031-next-permutation](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0031-next-permutation/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0704-binary-search](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
