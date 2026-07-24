@@ -80,6 +80,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0162-find-peak-element/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,5 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0162-find-peak-element/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
