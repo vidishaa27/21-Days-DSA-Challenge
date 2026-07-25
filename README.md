@@ -81,6 +81,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0162-find-peak-element/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +120,5 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0162-find-peak-element/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 <!---LeetCode Topics End-->
