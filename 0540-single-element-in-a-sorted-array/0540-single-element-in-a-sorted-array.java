@@ -6,16 +6,13 @@ class Solution {
         while (left < right) {
             int mid = left + (right - left) / 2;
 
-            // Make mid even
             if (mid % 2 == 1) {
                 mid--;
             }
-
             if (nums[mid] == nums[mid + 1]) {
-                // Pair is correct, single is on the right
                 left = mid + 2;
-            } else {
-                // Pair is broken, single is on the left
+            } 
+            else {
                 right = mid;
             }
         }
