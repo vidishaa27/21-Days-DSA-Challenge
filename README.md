@@ -8,6 +8,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@
 | [0875-koko-eating-bananas](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
