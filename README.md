@@ -9,6 +9,7 @@
 | [0567-permutation-in-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +133,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
