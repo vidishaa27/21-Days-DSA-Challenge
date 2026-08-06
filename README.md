@@ -47,6 +47,7 @@
 | [0189-rotate-array](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0189-rotate-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
