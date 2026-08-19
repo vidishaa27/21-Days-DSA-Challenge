@@ -93,6 +93,7 @@
 | [0238-product-of-array-except-self](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
