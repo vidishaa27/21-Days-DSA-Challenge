@@ -11,6 +11,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0031-next-permutation](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0031-next-permutation/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
