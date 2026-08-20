@@ -10,6 +10,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
