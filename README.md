@@ -13,6 +13,7 @@
 | [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
