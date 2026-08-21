@@ -12,6 +12,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
