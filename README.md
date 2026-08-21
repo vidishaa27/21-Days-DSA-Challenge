@@ -15,10 +15,12 @@
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 | [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
