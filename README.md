@@ -14,6 +14,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 | [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
+| [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0075-sort-colors](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
