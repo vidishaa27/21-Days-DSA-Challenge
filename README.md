@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
