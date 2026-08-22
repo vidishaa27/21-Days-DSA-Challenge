@@ -16,6 +16,7 @@
 | [0796-rotate-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0796-rotate-string/) | Easy |
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +187,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
