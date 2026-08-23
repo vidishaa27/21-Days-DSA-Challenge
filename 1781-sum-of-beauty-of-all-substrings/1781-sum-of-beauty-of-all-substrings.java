@@ -4,16 +4,18 @@ class Solution {
         int n = s.length();
 
         for(int i = 0; i < n; i++) {
-            HashMap<Character, Integer> map = new HashMap<>();
+            int map[] = new int[26];
             for(int j = i; j < n; j++) {
-                map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0)+1);
+                map[s.charAt(j) - 'a']++;
 
                 int mini = Integer.MAX_VALUE;
-                int maxi = Integer.MIN_VALUE;
+                int maxi = 0;
 
-                for(int val : map.values()) {
-                    mini = Math.min(val , mini);
-                    maxi = Math.max(val, maxi);
+                for(int val : map) {
+                    if(val > 0) { 
+                        mini = Math.min(val , mini);
+                        maxi = Math.max(val, maxi);
+                    }
                 }
                 sum += (maxi - mini);
             }
