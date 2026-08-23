@@ -18,6 +18,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | [0169-majority-element](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0169-majority-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
