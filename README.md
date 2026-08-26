@@ -19,6 +19,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
