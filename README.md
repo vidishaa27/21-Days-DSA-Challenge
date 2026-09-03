@@ -57,6 +57,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0031-next-permutation](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +209,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
