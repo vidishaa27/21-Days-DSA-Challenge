@@ -66,6 +66,7 @@
 | [0877-stone-game](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0014-longest-common-prefix/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
