@@ -212,4 +212,5 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
