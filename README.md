@@ -40,6 +40,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@
 | [0031-next-permutation](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0031-next-permutation/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +215,9 @@
 | [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
